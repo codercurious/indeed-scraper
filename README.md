@@ -1,3 +1,5 @@
+# Indeed Jobs Scraper
+Interested in using this scraper? Get it here: [Indeed Jobs Scraper](https://apify.com/curious_coder/indeed-scraper)
 ## What does Indeed scraper do?
 The "Indeed jobs scraper" actor allows you to extract job listings and associated details from [indeed.com](https://indeed.com) job search website. It provides a simple and efficient way to gather job data for analysis, research, lead generation or other purposes.
 
