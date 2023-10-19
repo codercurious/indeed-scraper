@@ -1,5 +1,5 @@
 # Indeed Jobs Scraper
-Interested in using this scraper? Get it here: [Indeed Jobs Scraper](https://apify.com/curious_coder/indeed-scraper)
+Interested in using this scraper? Get it here: [Indeed Jobs Scraper](https://apify.com/curious_coder/indeed-scraper?fpr=ve081&fp_sid=github_indeed-scraper)
 ## What does Indeed scraper do?
 The "Indeed jobs scraper" actor allows you to extract job listings and associated details from [indeed.com](https://indeed.com) job search website. It provides a simple and efficient way to gather job data for analysis, research, lead generation or other purposes.
 
@@ -33,7 +33,7 @@ Here are some use cases for an Indeed jobs scraper:
 ## How to scrape indeed
 1. Go to [indeed.com](https://indeed.com) and search for jobs with filters such as job title, company name, and location
 2. Copy the URL from the address bar. This is the Search URL you need to pass to the scraper
-3. Go to [Indeed scraper](https://apify.com/curious_coder/indeed-scraper) on the Apify platform
+3. Go to [Indeed scraper](https://apify.com/curious_coder/indeed-scraper?fpr=ve081&fp_sid=github_indeed-scraper) on the Apify platform
 4. Click the Try for free button
 5. Insert the search URL you copied in step 2
 6. Enter number of jobs needed
@@ -47,6 +47,11 @@ Here are some use cases for an Indeed jobs scraper:
 Here is are the available options of this scraper:
 
 ![Indeed jobs scraper options: job search url and proxy](https://awesomescreenshot.s3.amazonaws.com/image/1021927/43175364-f49ccdcdc39a3bc68e1c4e0b423bfdf8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230926T133848Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b61e8135850c1afb79e93f100bf57d5740f11b4dcf58e514808d9ed4cbdbbb24)
+
+
+## Integrations
+You can use [Make](https://www.make.com/en/register?pc=growthhack) to integrate apollo leads to any other SaaS platform by designing your own automation flows.
+
 
 ## Sample output
 You can download the dataset extracted by indeed scraper in various formats such as JSON, HTML, CSV, or Excel.
@@ -2275,14 +2280,14 @@ This documentation provides an overview and description of the fields present in
 - `workplaceInsights`: Insights about the workplace associated with the job.
 
 ## How much will it cost me to scrape Indeed jobs ?
-To use this scraper you need to pay $20 per month fixed cost to the developer and you should have an [Apify subscription](https://apify.com/pricing) which starts from $49/mo prepaid usage credits. 
+To use this scraper you need to pay $20 per month fixed cost to the developer and you should have an [Apify subscription](https://apify.com/pricing?fpr=ve081&fp_sid=github_indeed-scraper) which starts from $49/mo prepaid usage credits. 
 Based on historical data our scraper costs an average of $0.73 per thousand jobs scraped as usage credits.
 Based on above data, you can scrape upto 67,000 jobs per month with starter plan
 
 ## Is it legal to scrape indeed.com ?
 Our scrapers are ethical and do not extract any private user data, such as email addresses, gender, or location. They only extract what the user has chosen to share publicly. We therefore believe that our scrapers, when used for ethical purposes by Apify users, are safe. 
-However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European) in the European Union and by other regulations around the world. 
-You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/)
+However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European?fpr=ve081&fp_sid=github_indeed-scraper) in the European Union and by other regulations around the world. 
+You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/?fpr=ve081&fp_sid=github_indeed-scraper)
 
 ## Your feedback
-We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for Indeed Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/qA8rz8tR61HdkfTBL/issues) tab in Apify Console.
+We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for Indeed Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/qA8rz8tR61HdkfTBL/issues?fpr=ve081&fp_sid=github_indeed-scraper) tab in Apify Console.
