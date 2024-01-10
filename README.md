@@ -9,7 +9,9 @@ The "Indeed jobs scraper" actor allows you to extract job listings and associate
 The actor utilizes web scraping techniques to navigate through search result pages, extract job listings, and retrieve relevant information such as job titles, companies, locations, salaries, and more. It supports various filters and options to customize the scraping process and retrieve specific job data based on your requirements.
 
 There are two versions:
+
 **Scrapes job data:** The scraper will query the Indeed search page with your query parameters and extract the job data directly from the search results.
+
 **Scrapes Jobs Data with company details:** The scraper will crawl the Indeed search pages with your query parameters, then send a request to each individual company page to scrape all the company details data from the page.
 
 ## Apify proxy
