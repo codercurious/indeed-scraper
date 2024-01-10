@@ -59,7 +59,7 @@ Here are some use cases for an Indeed jobs scraper:
 
 Here is are the available options of this scraper:
 
-![Indeed jobs scraper options: job search url and proxy](https://awesomescreenshot.s3.amazonaws.com/image/1021927/43175364-f49ccdcdc39a3bc68e1c4e0b423bfdf8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230926T133848Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b61e8135850c1afb79e93f100bf57d5740f11b4dcf58e514808d9ed4cbdbbb24)
+![Indeed jobs scraper options: job search url and proxy](https://ik.imagekit.io/webscraper/Screenshot%202024-01-10%20at%2012.07.13%20PM.png?updatedAt=1704868682153)
 
 
 ## Integrations
@@ -71,7 +71,7 @@ If you want to extract more information from job description using ai (for eg: s
 ## Sample output
 You can download the dataset extracted by indeed scraper in various formats such as JSON, HTML, CSV, or Excel.
 
-![Indeed job scraper results with company details](https://awesomescreenshot.s3.amazonaws.com/image/1021927/43175663-d800ef3baf568df4df0614cfb7d06481.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230926T135126Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=1752a549e803e1657ddc5dd25fadfdace396213fb37c4dfa0105f421afb87eac)
+![Indeed job scraper results with company details](https://ik.imagekit.io/webscraper/Screenshot%202024-01-10%20at%2012.11.42%20PM.png?updatedAt=1704868915227)
 
 ## JSON Data Documentation
 
