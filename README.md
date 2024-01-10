@@ -18,7 +18,7 @@ There are two versions:
 
 This Indeed spider uses [Apify proxy](https://apify.com/proxy?fpr=ve081) as the proxy solution. Apify has a free plan that gives you free credits worth $5 per month which makes it ideal for the development phase, but can be easily scaled up to millions of pages per month if needs be.
 
-You can [sign up for a free account here](https://apify.com/pricing)
+You can [sign up for a free account here](https://apify.com/pricing?fpr=ve081)
 
 ## Why scrape indeed.com?
 Here are some use cases for an Indeed jobs scraper:
